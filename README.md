@@ -1,1 +1,2 @@
 # Discovery
+## Search Algorithm
