@@ -9,6 +9,7 @@
 ### Skipping Moves
 ### Extensions
 - [PV Extensisons](https://www.chessprogramming.org/PV_Extensions)
+The idea behind PV extensions is to extend nodes along the PV line to achieve higher search depths in the critical part of the tree. To prevent a search explosion we do not allow two consecutive extensions back to back along the PV line.
 - [Capture Extensions](https://www.chessprogramming.org/Capture_Extensions)
 - [Check Extensions](https://www.chessprogramming.org/Check_Extensions)
 - [Mate Threat Extensions](https://www.chessprogramming.org/Mate_Threat_Extensions)
