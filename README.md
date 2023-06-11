@@ -9,4 +9,9 @@
 ### Skipping Moves
 ### Extensions
 - [PV Extensisons](https://www.chessprogramming.org/PV_Extensions)
+- [Capture Extensions](https://www.chessprogramming.org/Capture_Extensions)
+- [Check Extensions](https://www.chessprogramming.org/Check_Extensions)
+- [Mate Threat Extensions](https://www.chessprogramming.org/Mate_Threat_Extensions)
+- [One Reply Extensions](https://www.chessprogramming.org/One_Reply_Extensions)
+- [Passed Pawn Extensions](https://www.chessprogramming.org/Passed_Pawn_Extensions)
 ## Evaluation
